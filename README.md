@@ -164,7 +164,7 @@ Integrate voice query input and real-time schema learning.
 Publish as an open-source Streamlit package on PyPI.
 
 👨‍💻 Authors
-Akash R A, Ganesh H M, Prajwal Y, Badri N
+Prajwal Y, Ganesh H M, Akash R A, Badri N
 Final Year ISE Students
 Department of Information Science & Engineering
 The National Institute of Engineering, Mysuru
@@ -202,8 +202,8 @@ mysql -u root -p          # For RDMS MYSQL Database
 
 📧 Contact
 
-📞 +91 8660497408
-✉️ akashrelekar1904@gmail.com
+📞 +91 7483207032
+✉️ prajwaly2005@gmail.com
 https://skyakash19.github.io/akash-portfolio/
 
 🧞‍♂️ SQLGenie Pro — “Where Natural Language Meets Database Divinity.”
