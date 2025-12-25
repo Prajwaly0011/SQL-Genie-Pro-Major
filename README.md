@@ -204,6 +204,6 @@ mysql -u root -p          # For RDMS MYSQL Database
 
 📞 +91 7483207032
 ✉️ prajwaly2005@gmail.com
-https://skyakash19.github.io/akash-portfolio/
+https://github.com/Prajwaly0011
 
 🧞‍♂️ SQLGenie Pro — “Where Natural Language Meets Database Divinity.”
