@@ -186,7 +186,7 @@ DOI: 10.1201/9781003559139-3
 
 🧰 Installation & Usage
 # Clone repository
-git clone https://github.com/skyakash19/SQLGeniePro.git
+git clone (https://github.com/Prajwaly0011/SQL-Genie-Pro-Major.git)
 cd SQLGeniePro
 
 # Install dependencies
